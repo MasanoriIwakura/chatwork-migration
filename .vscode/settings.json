@@ -1,5 +1,7 @@
 {
   "python.venvPath": ".venv",
   "workbench.colorCustomizations": {},
-  "python.pythonPath": ".venv/bin/python3.7"
+  "python.pythonPath": ".venv/bin/python3.7",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true
 }

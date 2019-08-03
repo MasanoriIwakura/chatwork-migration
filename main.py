@@ -1,7 +1,7 @@
 import requests
 import json
-
+import settings
 
 API_URL = "https://api.chatwork.com/v2"
 
-print(API_URL)
+print(settings.getenv("API_KEY"))
