@@ -1,0 +1,5 @@
+{
+  "python.venvPath": ".venv",
+  "workbench.colorCustomizations": {},
+  "python.pythonPath": ".venv/bin/python3.7"
+}
